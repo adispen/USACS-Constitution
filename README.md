@@ -5,11 +5,11 @@
 
 ## ARTICLE II – Purpose
 1. The Chapter is organized and will be operated exclusively for educational and scientific purposes to promote the following:
-1.1. An increased knowledge of and greater interest in the science, design, development, construction, languages, management and applications of modern computing.
-1.2. Greater interest in computing and its applications.
-1.3. A means of communication between persons having an interest in computing.
-1.4. Improving the state of computing and Computer Science teaching and research for Rutgers undergraduates.
-1.5. A cooperative relationship between the Rutgers undergraduates and the Computer Science department.
+	1.1. An increased knowledge of and greater interest in the science, design, development, construction, languages, management and applications of modern computing.
+	1.2. Greater interest in computing and its applications.
+	1.3. A means of communication between persons having an interest in computing.
+	1.4. Improving the state of computing and Computer Science teaching and research for Rutgers undergraduates.
+	1.5. A cooperative relationship between the Rutgers undergraduates and the Computer Science department.
 2. The Chapter will serve students at the Rutgers New Brunswick community.
 
 ## ARTICLE III – Membership
